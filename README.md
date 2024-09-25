@@ -5,9 +5,10 @@ Age Remainder (age % 5): 2
 Zchiavoni from La Trinidad
 ZCHIAVONI FROM LA TRINIDAD
 Occurrences of 'a': 3
+I am learning JavaScript at school
 I am learning JS at school
-Adobo        
-Burger       
+Adobo
+Burger
 Fried Chicken
 Rice
 Shawarma
