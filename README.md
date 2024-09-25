@@ -4,7 +4,7 @@ Is Adult: true
 Age Remainder (age % 5): 2
 Zchiavoni from La Trinidad
 ZCHIAVONI FROM LA TRINIDAD
-Occurrences of 'a': 5
+Occurrences of 'a': 3
 I am learning JS at school
 Adobo        
 Burger       
