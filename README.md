@@ -1,4 +1,5 @@
 THIS CONTAINS THE PRACTICAL EXAM SOLUTION FOR JAVASCRIPT
+(Please Open the README file and view as code)
 
 Name: Zchiavoni, Age: 22, City: La Trinidad
 Year Born: 2002
