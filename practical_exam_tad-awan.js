@@ -37,6 +37,7 @@ let occurrencesOfA = countOccurrencesOfA(sentence);
 console.log(`Occurrences of 'a': ${occurrencesOfA}`);
 
 let originalString = "I am learning JavaScript at school";
+console.log(originalString)
 let replacedString = originalString.replace(/JavaScript/gi, "JS");
 console.log(replacedString);
 
