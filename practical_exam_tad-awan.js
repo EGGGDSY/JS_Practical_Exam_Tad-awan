@@ -1,3 +1,4 @@
+// Variables and Operators
 let name = "Zchiavoni";
 let age = 22;
 let city = "La Trinidad";
@@ -13,6 +14,7 @@ console.log(`Year Born: ${yearBorn}`);
 console.log(`Is Adult: ${isAdult}`);
 console.log(`Age Remainder (age % 5): ${ageRemainder}`);
 
+// String Manipulation
 let sentence = `${name} from ${city}`;
 console.log(sentence);
 
@@ -41,6 +43,7 @@ console.log(originalString)
 let replacedString = originalString.replace(/JavaScript/gi, "JS");
 console.log(replacedString);
 
+// Array Manipulation
 let foods = ["Adobo", "Sinigang", "Burger", "Fried Chicken", "Rice"];
 foods.push("Shawarma");
 foods.splice(1, 1);
