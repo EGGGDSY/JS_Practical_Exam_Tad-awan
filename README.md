@@ -1,5 +1,3 @@
-This repository contains practical exam solutions for Javasrcipt
-PS C:\Users\tad-awan_z\Documents\Local Repo\JS_Practical_Exam_Tad-awan> node practical_exam_tad-awan.js
 Name: Zchiavoni, Age: 22, City: La Trinidad
 Year Born: 2002
 Is Adult: true
@@ -13,4 +11,3 @@ Burger
 Fried Chicken
 Rice
 Shawarma
-PS C:\Users\tad-awan_z\Documents\Local Repo\JS_Practical_Exam_Tad-awan>
