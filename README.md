@@ -1,3 +1,5 @@
+THIS CONTAINS THE PRACTICAL EXAM SOLUTIONFOR JAVASCRIPT
+
 Name: Zchiavoni, Age: 22, City: La Trinidad
 Year Born: 2002
 Is Adult: true
