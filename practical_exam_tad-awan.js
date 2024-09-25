@@ -33,7 +33,7 @@ function countOccurrencesOfA(str) {
     return count;
 }
 
-let occurrencesOfA = countOccurrencesOfA("I am learning JavaScript at school");
+let occurrencesOfA = countOccurrencesOfA(sentence);
 console.log(`Occurrences of 'a': ${occurrencesOfA}`);
 
 let originalString = "I am learning JavaScript at school";
